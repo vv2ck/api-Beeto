@@ -1,0 +1,11 @@
+POST /checkin HTTP/2
+Host: device-provisioning.googleapis.com
+Accept: */*
+Content-Type: application/json
+Accept-Encoding: gzip, deflate
+User-Agent: Beeto/1.4.15.0 CFNetwork/1120 Darwin/19.0.0
+Content-Length: 246
+Accept-Language: ar
+Connection: close
+
+{"locale":"ar_SA","digest":"","checkin":{"iosbuild":{"model":"iPhone11,2","os_version":"IOS_15.2.3"},"last_checkin_msec":,"user_number":0,"type":2},"time_zone":"Asia\/Riyadh","user_serial_number":,"id":,"version":2,"security_token":,"fragment":0}
